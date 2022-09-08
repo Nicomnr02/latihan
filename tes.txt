@@ -1,4 +1,6 @@
 perubahan 1
 perubahan 2
+<<<<<<< HEAD
 fitur 1
 fitur ubah
+fitur ubah2
